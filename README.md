@@ -1,2 +1,2 @@
-# AreaTriangulo
-aqui irei calcular a área de um triângulo
+# AreaCirculo
+aqui irei calcular a área de um Circulo
